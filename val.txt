@@ -1,0 +1,4 @@
+active=true
+customer=ALM
+expiry=2026-12-31
+license_key=ALM-7893
